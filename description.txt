@@ -1,0 +1,1 @@
+RFID attendance event reader is an ESP32 learning project using MFRC522 3. 3 V RFID reader and 13. 56 MHz tags. It measures card detected and publishes validated telemetry over Wi-Fi and TLS MQTT for classroom technology learners. Includes wiring, security, calibration, source code, TLS MQTT, sample data, provisioning, safety notes, field guidance.
